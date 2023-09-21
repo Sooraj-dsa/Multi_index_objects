@@ -24,8 +24,8 @@ multi_index.get_data(index1, index2)
 # Contributing
 We welcome contributions! If you'd like to contribute to this project, please follow these guidelines:
 
-Fork the repository
-Create a new branch
-Make your changes and commit them with descriptive messages
-Push your changes to your fork
-Create a pull request
+- Fork the repository
+- Create a new branch
+- Make your changes and commit them with descriptive messages
+- Push your changes to your fork
+- Create a pull request
